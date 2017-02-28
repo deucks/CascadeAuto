@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfVideoListModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfVideoListModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VideoListModel>
+    <VideoName>dfsgsgdfg</VideoName>
+    <VideoDescription>dfgdfg</VideoDescription>
+    <VideoTags>dfg</VideoTags>
+    <AudioLocation>C:\Users\Raajit\Documents\Visual Studio 2013\Projects\CascadeAuto\CascadeAuto\bin\x86\Debug\testTest.mp3</AudioLocation>
+  </VideoListModel>
+</ArrayOfVideoListModel>
